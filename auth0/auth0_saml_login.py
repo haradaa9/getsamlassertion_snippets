@@ -10,7 +10,7 @@ import time
 import html.parser
 
 # Parameters
-URL="" # Auth0 AWS login URL
+URL=""
 USERNAME=""
 PASSWORD=""
 
